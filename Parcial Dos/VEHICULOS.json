@@ -1,0 +1,128 @@
+[
+    {
+        "ID": 9,
+        "Marca": "Ferrari",
+        "Modelo": "Serie 3",
+        "Anio": 2022,
+        "Color": "Plateado",
+        "Patente": "YZA567",
+        "Propietario": "Roberto Diaz"
+    },
+    {
+        "ID": 3,
+        "Marca": "Peugeot",
+        "Modelo": "Cruze",
+        "Anio": 2020,
+        "Color": "Rojo",
+        "Patente": "GHI789",
+        "Propietario": "Juan Perez"
+    },
+    {
+        "ID": 2,
+        "Marca": "Ford",
+        "Modelo": "Focus",
+        "Anio": 2018,
+        "Color": "Negro",
+        "Patente": "DEF456",
+        "Propietario": "Juliana Baez"
+    },
+    {
+        "ID": 4,
+        "Marca": "Honda",
+        "Modelo": "Civic",
+        "Anio": 2016,
+        "Color": "Azul",
+        "Patente": "JKL012",
+        "Propietario": "Ana Martinez"
+    },
+    {
+        "ID": 6,
+        "Marca": "Hyundai",
+        "Modelo": "Elantra",
+        "Anio": 2019,
+        "Color": "Verde",
+        "Patente": "PQR678",
+        "Propietario": "Sofia Sanchez"
+    },
+    {
+        "ID": 8,
+        "Marca": "Mazda",
+        "Modelo": "3",
+        "Anio": 2014,
+        "Color": "Naranja",
+        "Patente": "VWX234",
+        "Propietario": "Lucia Rodriguez"
+    },
+    {
+        "ID": 10,
+        "Marca": "Mercedes-Benz",
+        "Modelo": "Clase C",
+        "Anio": 2023,
+        "Color": "Violeta",
+        "Patente": "BCD890",
+        "Propietario": "Elena Gonzalez"
+    },
+    {
+        "ID": 7,
+        "Marca": "Nissan",
+        "Modelo": "Sentra",
+        "Anio": 2021,
+        "Color": "Amarillo",
+        "Patente": "STU901",
+        "Propietario": "Miguel Fernandez"
+    },
+    {
+        "ID": 11,
+        "Marca": "Pp",
+        "Modelo": "Toyota",
+        "Anio": 2021,
+        "Color": "Gris",
+        "Patente": "RRR-999",
+        "Propietario": "Roberto"
+    },
+    {
+        "ID": 13,
+        "Marca": "Toyota",
+        "Modelo": "Hilux",
+        "Anio": 2019,
+        "Color": "Rojo",
+        "Patente": "RRR-888",
+        "Propietario": "Mathias bustamante"
+    },
+    {
+        "ID": 11,
+        "Marca": "Toyota",
+        "Modelo": "Hilux",
+        "Anio": 2020,
+        "Color": "Verde",
+        "Patente": "YYY-888",
+        "Propietario": "Micaela torales"
+    },
+    {
+        "ID": 1,
+        "Marca": "Toyota",
+        "Modelo": "Corolla",
+        "Anio": 2015,
+        "Color": "Blanco",
+        "Patente": "ABC123",
+        "Propietario": "Juan Perez"
+    },
+    {
+        "ID": 5,
+        "Marca": "Volkswagen",
+        "Modelo": "Golf",
+        "Anio": 2017,
+        "Color": "Gris",
+        "Patente": "MNO345",
+        "Propietario": "Luis Ramirez"
+    },
+    {
+        "ID": 14,
+        "Marca": "Volksvaguen",
+        "Modelo": "Bora",
+        "Anio": 2024,
+        "Color": "Rosa",
+        "Patente": "GHY-098",
+        "Propietario": "Soledad Celeste"
+    }
+]
